@@ -169,9 +169,9 @@ http://www.baidu.com
 
 
 
-## 图片   ![示例图片](C:\Users\HSH4WX\Desktop\MarkdownGrammar.png "示例图片")
+## 图片  
 
-![示例图片](C:\Users\HSH4WX\Desktop\MarkdownGrammar.png "示例图片")
+![示例图片](C:/Users/HSH4WX/Desktop/MarkdownGrammar.png "示例图片")
 
 
 
